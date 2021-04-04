@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <li>My first Open Source contribution was a HTML file documenting how to enable JavaScript in various browsers 🌐</li>
 <li>I am an avid reader , whose book shelf is about to collapse📚</li>
 
-<h3>Connect with me</h3>
+<h3>Connect with me :</h3>
 <a href= "https://twitter.com/HaqueShaima"><img src= "assets/twitter.png" alt = "Twitter">
 <a href = "https://www.linkedin.com/in/shaima-haque-9951861b7/"><img src = "assets/linkedin.png" alt ="LinkedIn">
 
