@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p>I am a first year student pursuing B.Tech in Computer Science and Engineering. I enjoy learning new things and implementing them as I go. Besides Computer Science , I love Mathematics. I am also interested in Machine Learning. I am a member and ambassador for WomenTechmakers. I am also a MNE at Cheggs for Computer Science. </p>
 
-<h3>Some Fun Facts About me</h3>
+<h3>Some Fun Facts About me:</h3>
 <ul>
 <li>Local Hack day: Share(2021) hosted my Major League was my first hackathon 💻</li>
 <li>My first Open Source contribution was a HTML file documenting how to enable JavaScript in various browsers 🌐</li>
