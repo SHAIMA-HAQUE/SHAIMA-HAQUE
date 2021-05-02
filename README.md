@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 
 <h3>Some Fun Facts About me:</h3>
 <ul>
-<li>Local Hack day: Share(2021) hosted my Major League Hacking(MLH) was my first hackathon 💻</li>
-<li>My first Open Source contribution was a HTML file documenting how to enable JavaScript in various browsers 🌐</li>
-<li>I am an avid reader , whose book shelf is about to collapse! 😂📚</li>
+  <li>You can find my blogs at https://shaimahaque.hashnode.dev
+  <li>Local Hack day: Share(2021) hosted my Major League Hacking(MLH) was my first hackathon 💻</li>
+  <li>My first Open Source contribution was a HTML file documenting how to enable JavaScript in various browsers 🌐</li>
+  <li>I am an avid reader , whose book shelf is about to collapse! 😂📚</li>
 
 <h3>Connect with me :</h3>
 <a href= "https://twitter.com/HaqueShaima"><img src= "assets/twitter.png" alt = "Twitter">
