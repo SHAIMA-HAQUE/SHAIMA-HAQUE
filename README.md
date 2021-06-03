@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3>Glad to see you here!</h3>
 
-<p>I am a first year student pursuing B.Tech in Computer Science and Engineering. I enjoy learning new things and implementing them as I go. Besides Computer Science , I love Mathematics. I am also interested in Machine Learning. I am a member and ambassador for WomenTechmakers. I am also a MNE at Cheggs for Computer Science. </p>
+<p>I am a first year student pursuing B.Tech in Computer Science and Engineering. I enjoy learning new things and implementing them as I go. Besides Computer Science , I love Mathematics. I am also interested in Machine Learning. I am a member and ambassador for WomenTechmakers.  </p>
 
 <h3>Some Fun Facts About me:</h3>
 <ul>
