@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3>Glad to see you here!</h3>
 
-<p>I am a second year student pursuing B.Tech in Computer Science and Engineering. I enjoy learning new things and implementing them as I go. Besides Computer Science , I love Mathematics. I am also interested in Machine Learning. I am a member and ambassador for WomenTechmakers.  </p>
+<p>I am a final-year student pursuing B.Tech in Computer Science and Engineering. I am currently a Software Dev Engineer Intern at Amazon. I was the Google Developer Student Clubs Lead from 2022-2023. I have won several hackathons and love challenging myself to keep up with the ever-changing tech landscape.   </p>
 
 <h3>Some Fun Facts About me:</h3>
 <ul>
